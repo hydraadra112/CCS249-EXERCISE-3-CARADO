@@ -1,4 +1,4 @@
-# CCS249-EXERCISE-3
+# CCS249 EXERCISE 3 - CARADO & TACUEL
 Exercise for UNIT 3 for our CCS 249 - Natural Language Processing
 
 This repository trains a bi-gram and tri-gram language model by using the deep learning corpus from Wikipedia. It also calculates the perplexity score of both the bi-gram and tri-gram models to assess how good the models can predict the next word.
